@@ -1,7 +1,7 @@
 # SwiftBasics: CoreData
 Core Data basic functionalities.
 
-### Methods
+### Features
 - Add new objects to Data Model
 - Fetch All Stored Objects
 - Specific Searches in Stored Objects
